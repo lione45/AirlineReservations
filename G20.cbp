@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="G20" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/G20" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/G20" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Admin.h" />
+		<Unit filename="Dijksta_km.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Dijksta_solo_partenza.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Dijkstra.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Nascondi_Pass.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Nascondi_Pass.h" />
+		<Unit filename="Priority_Queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Priority_Queue.h" />
+		<Unit filename="Sconto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Utente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Utente.h" />
+		<Unit filename="colori.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="colori.h" />
+		<Unit filename="controlli_grafo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grafi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grafi.h" />
+		<Unit filename="grafi2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="leggi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_preno.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_preno.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="salva_prenotazioni.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

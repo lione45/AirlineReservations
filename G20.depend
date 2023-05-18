@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1591975309 source:c:\users\mattia\desktop\g20\menu.c
+	"menu.h"
+
+1591190097 c:\users\mattia\desktop\g20\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"colori.h"
+
+1591810344 source:c:\users\mattia\desktop\g20\main.c
+	"menu.h"
+	"Utente.h"
+	"Admin.h"
+	"Priority_Queue.h"
+	"lista_preno.h"
+
+1590489785 source:c:\users\mattia\desktop\g20\colori.c
+	"colori.h"
+
+1590489785 c:\users\mattia\desktop\g20\colori.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
+1590598988 source:c:\users\mattia\desktop\g20\utente1.c
+	"Utente.h"
+
+1591190097 c:\users\mattia\desktop\g20\utente.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"colori.h"
+	"Nascondi_Pass.h"
+
+1590598988 source:c:\users\mattia\desktop\g20\admin1.c
+	"Admin.h"
+
+1591190097 c:\users\mattia\desktop\g20\admin.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Nascondi_Pass.h"
+	"colori.h"
+
+1590598895 c:\users\mattia\desktop\g20\nascondi_pass.h
+	<stdio.h>
+
+1591186850 source:c:\users\mattia\desktop\g20\nascondi_pass.c
+	"Nascondi_Pass.h"
+
+1591293814 source:c:\users\mattia\desktop\g20\grafi.c
+	"grafi.h"
+
+1591617434 c:\users\mattia\desktop\g20\grafi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"colori.h"
+
+1591190097 source:c:\users\mattia\desktop\g20\controlli_grafo.c
+	"grafi.h"
+
+1591183583 c:\users\mattia\desktop\g20\controlli_grafo.h
+	<stdbool.h>
+	"grafi.h"
+	"colori.h"
+
+1591017846 c:\users\mattia\desktop\g20\leggi.h
+	"controlli_grafo.h"
+
+1591638322 source:c:\users\mattia\desktop\g20\leggi.c
+	"grafi.h"
+
+1591288561 source:c:\users\mattia\desktop\g20\priority_queue.c
+	"Priority_Queue.h"
+
+1591556380 c:\users\mattia\desktop\g20\priority_queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"grafi.h"
+
+1591373095 source:c:\users\mattia\desktop\g20\dijkstra.c
+	"Priority_Queue.h"
+
+1591121746 c:\users\mattia\desktop\g20\dijkstra.h
+	"Priority_Queue.h"
+
+1591975408 source:c:\users\mattia\desktop\g20\admin.c
+	"Admin.h"
+
+1591975408 source:c:\users\mattia\desktop\g20\utente.c
+	"Utente.h"
+
+1591289288 source:c:\users\mattia\desktop\g20\grafi2.c
+	"grafi.h"
+
+1591612273 source:c:\users\mattia\desktop\g20\salva_prenotazioni.c
+	"Priority_Queue.h"
+
+1591810344 source:c:\users\mattia\desktop\g20\sconto.c
+	"Priority_Queue.h"
+
+1591373095 source:c:\users\mattia\desktop\g20\dijksta_km.c
+	"Priority_Queue.h"
+
+1591374638 source:c:\users\mattia\desktop\g20\dijksta_solo_partenza.c
+	"Priority_Queue.h"
+
+1591615041 c:\users\mattia\desktop\g20\lista_preno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591615002 source:c:\users\mattia\desktop\g20\lista_preno.c
+	"lista_preno.h"
+

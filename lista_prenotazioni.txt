@@ -1,0 +1,4 @@
+lione54,16,Napoli,Madrid,3187.000000,3187;
+lione54,16,Madrid,Bogota,3187.000000,3187;
+lione54,16,Bogota,Buenos Aires,3187.000000,3187;
+lione54,807,Napoli,Amsterdam,120.000000,307;
